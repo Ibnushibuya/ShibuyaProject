@@ -1,4 +1,4 @@
-# One4uBot userbot project
+# ShibuyaProject
 
 <p align="center">
     <a href="https://github.com/MoveAngel/One4uBot/actions?query=workflow%3AFailedChecker" > <img src="https://img.shields.io/github/workflow/status/MoveAngel/One4uBot/FailedChecker/sql-extended?label=Build&style=flat-square&logo=github-actions&logoColor=white&color=98CE00" alt="FailedChecker" /></a>
@@ -13,7 +13,7 @@
     <a href="https://t.me/userbotindo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a>
 </p>
 
-![logo](https://i.ibb.co/02QVkHC/headersmina.jpg)
+![logo](https://cdn.donmai.us/original/f8/11/__shibuya_rin_idolmaster_and_1_more_drawn_by_mizuki_makoto__f8116d442d9a9e3007fe36bbfda3fab7.jpg)
 
 ```
 #include <std/disclaimer.h>
